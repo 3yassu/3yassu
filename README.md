@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# `3yassu`
-
-**Awesome and full of Sauce**
+# `3yassu: Awesome & full of sauce`
 
 ---
 
